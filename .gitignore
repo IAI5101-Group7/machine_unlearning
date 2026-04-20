@@ -1,0 +1,6 @@
+.venv/
+results/
+processed_data/
+__pycache__/
+checkpoints_rf/
+checkpoints/
